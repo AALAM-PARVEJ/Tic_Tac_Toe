@@ -1,8 +1,3 @@
----
- 
-# ✅ Complete `main.cpp` File (with Human vs Human and AI modes)
- 
-```cpp
 #include <iostream>
 #include <limits>
 using namespace std;
