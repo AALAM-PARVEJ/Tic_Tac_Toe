@@ -1,26 +1,27 @@
-# 🎮 Tic Tac Toe AI (C++)
+# 🎮 Tic Tac Toe Game in C++
  
-This is a simple and clean **Tic Tac Toe** console game built in **C++**, supporting:
- 
+This is a clean and powerful **Tic Tac Toe** console game written in **C++**.  
+It supports:
 - 👨‍👨‍👦 Human vs Human mode
-- 🤖 Human vs AI mode (AI is unbeatable using Minimax algorithm)
+- 🤖 Human vs AI mode (**AI uses Minimax algorithm** and is unbeatable!)
  
 ---
  
 ## 🧠 Features
-- 3x3 Board UI
-- Input validation and replay option
-- Win/Draw detection
-- Minimax-based unbeatable AI
+- Clear 3x3 Board display
+- Input validation and error handling
+- Win, Draw detection
+- Unbeatable AI using Minimax
+- Replay option after each game
  
 ---
  
 ## ▶️ How to Run
  
-You can run it online on:
+### 🖥 Online:
 - [OnlineGDB](https://www.onlinegdb.com/)
 - [Replit](https://replit.com/)
  
-Or locally (if you have g++):
+### 💻 Locally (if g++ installed):
 ```bash
 g++ src/main.cpp -o ticgame./ticgame
