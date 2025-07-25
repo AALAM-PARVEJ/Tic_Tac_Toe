@@ -1,6 +1,3 @@
-# Tic_Tac_Toe
-Unbeatable Tic Tac Toe game with Human vs Human and AI modes, built in C++
-
 # 🎮 Tic Tac Toe AI (C++)
  
 This is a simple and clean **Tic Tac Toe** console game built in **C++**, supporting:
