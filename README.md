@@ -39,7 +39,3 @@ Tic_Tac_Toe/
 - Option to choose your mark (X or O)
 
 ---
-
-## 📚 License
-
-This project is licensed under the **MIT License**.
