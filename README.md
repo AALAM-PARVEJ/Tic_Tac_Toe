@@ -1,8 +1,9 @@
 # 🎮 Tic Tac Toe (C++ with Minimax AI)
+
+[![GitHub stars](https://img.shields.io/github/stars/parvej-aalam/Tic_Tac_Toe?style=social)](https://github.com/parvej-aalam/Tic_Tac_Toe/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/parvej-aalam/Tic_Tac_Toe?style=social)](https://github.com/parvej-aalam/Tic_Tac_Toe/network/members)
+[![GitHub repo size](https://img.shields.io/github/repo-size/parvej-aalam/Tic_Tac_Toe)](https://github.com/parvej-aalam/Tic_Tac_Toe)
  
-[![GitHub stars](https://img.shields.io/github/stars//Tic_Tac_Toe?style=social)](https://github.com/<your-username>/Tic_Tac_Toe/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks//Tic_Tac_Toe?style=social)](https://github.com/<your-username>/Tic_Tac_Toe/network/members)
-[![GitHub repo size](https://img.shields.io/github/repo-size//Tic_Tac_Toe)](https://github.com/<your-username>/Tic_Tac_Toe)
  
 # 🎮 Tic Tac Toe Game in C++
  
