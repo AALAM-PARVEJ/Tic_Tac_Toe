@@ -18,7 +18,7 @@ bool gameOver = false;
 void drawMark(sf::RenderWindow &window, int row, int col, int player) 
 { 
   sf::Font font; 
-  font.loadFromFile("arial.ttf"); 
+  font.loadFromFile("OpenSans-Regular.ttf");
   sf::Text text; 
   text.setFont(font); 
   text.setString(player == 1 ? "X" : "O"); 
