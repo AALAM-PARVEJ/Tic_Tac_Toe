@@ -6,7 +6,7 @@ char board[3][3];
  
 // -------------------- Board Setup --------------------
 void resetBoard() {
-    char count = '0';
+    char count = '1';
     for (int i = 0; i < 3; ++i)
         for (int j = 0; j < 3; ++j)
             board[i][j] = count++;
