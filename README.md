@@ -1,3 +1,9 @@
+# 🎮 Tic Tac Toe (C++ with Minimax AI)
+ 
+[![GitHub stars](https://img.shields.io/github/stars//Tic_Tac_Toe?style=social)](https://github.com/<your-username>/Tic_Tac_Toe/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks//Tic_Tac_Toe?style=social)](https://github.com/<your-username>/Tic_Tac_Toe/network/members)
+[![GitHub repo size](https://img.shields.io/github/repo-size//Tic_Tac_Toe)](https://github.com/<your-username>/Tic_Tac_Toe)
+ 
 # 🎮 Tic Tac Toe Game in C++
  
 This is a clean and powerful **Tic Tac Toe** console game written in **C++**.  
